@@ -92,4 +92,4 @@ java -cp out application.Main
 
 ## 👨‍💻 Autor
 
-Feito por **bianchini021** — primeiro projeto Java 🎉
+Feito por **bianchini021**
