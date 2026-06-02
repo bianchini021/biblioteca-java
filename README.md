@@ -31,28 +31,6 @@ biblioteca-java/
 
 ---
 
-## ▶️ Como executar
-
-### Pré-requisitos
-
-- [Java JDK 11+](https://www.oracle.com/java/technologies/downloads/) instalado
-
-### Compilando e rodando
-
-```bash
-# Clone o repositório
-git clone https://github.com/bianchini021/biblioteca-java.git
-cd biblioteca-java
-
-# Compile os arquivos
-javac -d out src/domain/*.java src/application/*.java
-
-# Execute o programa
-java -cp out application.Main
-```
-
----
-
 ## 🖥️ Menu do sistema
 
 ```
